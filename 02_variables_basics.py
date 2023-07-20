@@ -1,2 +1,3 @@
-a = "Hello World!"
-print(a)
+name = "Yuval"
+last_name = "Elharar"
+age = 26
