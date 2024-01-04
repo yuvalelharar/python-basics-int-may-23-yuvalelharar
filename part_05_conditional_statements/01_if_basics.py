@@ -1,7 +1,7 @@
 Age = int(input("Enter your age: "))
-if Age >= 18 :
+if Age >= 18:
     print("Adult")
-    print("yahooo")
+    print("yahoo")
 else:
     print("you are young")
 
